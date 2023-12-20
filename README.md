@@ -12,9 +12,6 @@ The USGS is interested in building a new set of tools that will allow them to vi
 - Javascript
 - D3
 
-## Part 1: Earthquake Visualization ##
+## Earthquake Visualization ##
 1. Retrieve JSON representation of earthquake data from USGS website (https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
 2. Import and visualize the data by using Leaflet
-
-
-## Part 2: Gather and Plot More Data ##
